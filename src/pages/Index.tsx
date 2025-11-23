@@ -23,7 +23,7 @@ const Index = () => {
     {
       id: 1,
       name: 'Автобетононасос 32м',
-      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/4be32e0e-0a81-40ae-ad95-903161b3c1cc.jpg',
+      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/8e02239b-04f7-4281-8e7d-ba999f14822b.jpg',
       reach: '32 метра',
       capacity: '90 м³/час',
       price: 'от 15 000 ₽/смена'
@@ -31,7 +31,7 @@ const Index = () => {
     {
       id: 2,
       name: 'Автобетононасос 42м',
-      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/4651430e-a483-4f2d-a181-ea3ad599b803.jpg',
+      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/04dba8c8-4e32-4c17-a838-4c7edf44d374.jpg',
       reach: '42 метра',
       capacity: '120 м³/час',
       price: 'от 20 000 ₽/смена'
@@ -39,7 +39,7 @@ const Index = () => {
     {
       id: 3,
       name: 'Автобетононасос 52м',
-      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/97552153-810e-4cae-b519-5245fcb1e42a.jpg',
+      image: 'https://cdn.poehali.dev/projects/81053f43-2fb0-4a6f-a8a7-23cb107e25df/files/d214970c-f326-44db-986c-235f4199fd0d.jpg',
       reach: '52 метра',
       capacity: '160 м³/час',
       price: 'от 25 000 ₽/смена'
